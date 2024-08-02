@@ -1,5 +1,5 @@
 import inquirer from 'inquirer';
-import qr, { image } from 'qr-image';
+import qr from 'qr-image';
 import fs from 'fs';
 
 inquirer
